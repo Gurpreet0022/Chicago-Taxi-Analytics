@@ -1,4 +1,4 @@
-# Chicago Taxi Analytics — Fare, Demand & Tipping Behavior
+# Chicago Taxi Analytics - Fare, Demand & Tipping Behavior
 
 ## Project Overview
 An end-to-end data analytics project analyzing 5.5M+ Chicago taxi trips (2022) 
