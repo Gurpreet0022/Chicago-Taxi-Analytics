@@ -70,10 +70,10 @@ chicago-taxi-analytics/
 
 - **Peak month:** June recorded the highest trip volume in 2022 with 557K+ trips
 - **Peak hours:** Weekday trips peak between 7–10 AM and 4–7 PM
-- **Market leader:** Flash Cab dominates with 1.5M+ trips — 3x the next competitor
-- **Tip behavior:** Credit card passengers tip on average $X vs $0 for cash passengers
-- **Profitability:** Short trips (0–1 miles) generate the highest fare per minute at $X/min
-- **Avg fare:** $X per trip across 5.5M clean records
+- **Market leader:** Flash Cab dominates with 1.5M+ trips, 3x the next competitor
+- **Tip behavior:** Credit card passengers tip on average $5 vs $0 for cash passengers
+- **Profitability:** Short trips (0–1 miles) generate the highest fare per minute at $25/min
+- **Avg fare:** $22.43 per trip across 5.5M clean records
 
 ---
 
@@ -91,9 +91,9 @@ chicago-taxi-analytics/
 1. Open [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) (free)
 2. Copy any query from the `queries/` folder
 3. Replace `your_project` with your GCP project ID
-4. Run the query — results match the dashboard views
+4. Run the query, results match the dashboard views
 
 ---
 
-## Connect
+## Author
 **Gurpreet Kaur**
