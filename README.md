@@ -18,10 +18,10 @@ Google BigQuery and Looker Studio.
 [View Live Dashboard](https://datastudio.google.com/s/rWvb6YciAuY)
 
 **Page 1: Demand & Operations**
-![Page 1](C:\Users\kaurs\Desktop\Chicago Taxi Analytics\Chicago-Taxi-Analytics\Dashboard\Page 1.png)
+![Page 1](Dashboard/Page1.png)
 
 **Page 2: Fare & Tip Behavior**
-![Page 2](C:\Users\kaurs\Desktop\Chicago Taxi Analytics\Chicago-Taxi-Analytics\Dashboard\Page 2.png)
+![Page 2](Dashboard/Page2.png)
 
 ---
 
